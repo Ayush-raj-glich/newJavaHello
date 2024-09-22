@@ -8,3 +8,9 @@ class pw{
 //code
 }
 }
+
+class pw{
+    public void mq(){
+//code
+}
+}
